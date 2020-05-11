@@ -8,7 +8,7 @@ Dans le cadre de projet Talad, nous avons eu la mission de mettre en place un pr
 
 Après avoir télécharger le projet, veuillez lancer dans votre terminal le fichier main tout en se positionnant sur le chemin courant du fichier main_spacy.py ou main_nltk.py .
 
-Dans ce projet j'ai eu à utiliser un corpus des interviews fournit par une entreprise(--) avec une taille de 64 Mo (3165 lignes, classes)et ce corpus est lit dans un fichier config.py.
+Dans ce projet j'ai eu à utiliser un corpus des interviews fournit par une entreprise(--) avec une taille de 64 Mo (3165 lignes, 7 classes)et ce corpus est lit dans un fichier config.py.
 
 Les modèles que j'ai mis en place permet à la sortie d'obtenir un corpus en format IOB pour son evaluation.
 
